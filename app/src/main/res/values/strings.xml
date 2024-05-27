@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LABHD01</string>
+    <string name="price_format"> VND</string>
+    <string name="sl">SL: %d</string>
+    <string name="nhap_day_du_thong_tin">Nhập đầy đủ thông tin</string>
+    <string name="chinh_sua_thanh_cong">Chỉnh sửa thành công</string>
+    <string name="chinh_sua_that_bai">Chỉnh sửa thất bại</string>
+    <string name="forgot_password"> <u>Forgot Password?</u> </string>
+    <string name="sign_up"> Don\'t Have Account <b>Sign up?</b> </string>
+    <string name="del" > </string>
+    <string name="Edit" > <b> Sửa </b> </string>
+    <string name="add_button">Thêm sản phẩm</string>
+    <string name="Ho_va_Ten">Nguyễn Văn Hiếu</string>
+</resources>
